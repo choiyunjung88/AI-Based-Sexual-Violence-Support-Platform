@@ -38,6 +38,7 @@ GPT 기반 대화 분석, 자동 증거 정리, AI 챗봇 연동, 익명성과 �
 ┃ ┗ 📄 build.gradle or pom.xml
 ┣ 📄 README.md
 ┣ 📄 .gitignore
+```
 
 ---
 
