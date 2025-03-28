@@ -38,3 +38,20 @@ GPT 기반 대화 분석, 자동 증거 정리, AI 챗봇 연동, 익명성과 �
 ┃ ┗ 📄 build.gradle or pom.xml
 ┣ 📄 README.md
 ┣ 📄 .gitignore
+
+---
+
+## 👥 팀원
+
+| 이름 | 역할 |
+|------|------|
+| 권재희 | 풀스택 개발, GPT 연동, PDF 생성 |
+| 최윤정 | 풀스택 개발, 챗봇 UI, UX 설계, Notion 정리 |
+
+---
+
+## 🔗 프로젝트 관련 링크
+
+- 📂 [Figma](https://www.figma.com/proto/0TRXTZXmK62qjf4U7HYbof/Untitled?t=q8BMrUi7AtvnU60S-1)
+- 📑 [Notion](https://cheerful-kicker-3f6.notion.site/AI-1c484d76ff9e80db80b0f70e0ee7ad79?pvs=4)
+- 🎯 [최종 발표자료 / 포트폴리오](https://drive.google.com/발표자료링크)
